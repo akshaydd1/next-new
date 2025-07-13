@@ -2,7 +2,7 @@ import Image from 'next/image';
 import style from './service.module.css';
 const Service = () => {
   return (
-    <div>
+    <div className='font-work-sans'>
       <h1 className={style['common-heading']}>Our Services</h1>
       <p>We offer a variety of services to help you succeed.</p>
       <div className={style['amenities-container']}>

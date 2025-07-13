@@ -2,7 +2,7 @@ const Home= () => {
   return (
     
     <div>
-      <h1 className='common-heading'>Welcome to the New Test App by Akshay</h1>
+      <h1 className='common-heading font-roboto'>Welcome to the New Test App by Akshay</h1>
       <p>This is the home page.</p>
     </div>
   );
