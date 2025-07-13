@@ -1,6 +1,5 @@
-import "./globals.css";
-import Navigation from "../components/Navigation";
-// import 'bootstrap/dist/css/bootstrap.min.css';
+import "../globals.css";
+import Navigation from "@/components/Navigation";
 export default function RootLayout({children}) {
   return (
     <html lang="en">
